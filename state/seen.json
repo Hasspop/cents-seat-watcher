@@ -1,53 +1,11 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-26T15:42:12.682Z",
+  "updatedAt": "2026-11-27T00:03:00.572Z",
   "lastHeartbeatAt": "2026-11-26T05:32:24.109Z",
   "consecutiveFailures": 0,
   "calendars": {
     "CEnT-S": {
       "rows": {
-        "CENT@UNI|Universita' degli studi di Trieste|TRIESTE|26/11/2026": {
-          "availability": "EXPIRED",
-          "seats": 71,
-          "lastSeats": 71,
-          "lastSeatsOn": "2026-11-20"
-        },
-        "CENT@UNI|Universita' degli studi di Messina|MESSINA|26/11/2026": {
-          "availability": "EXPIRED",
-          "seats": 60,
-          "lastSeats": 62,
-          "lastSeatsOn": "2026-11-20"
-        },
-        "CENT@HOME|Sapienza Università di Roma|ROMA|26/11/2026": {
-          "availability": "EXPIRED",
-          "seats": 0,
-          "lastSeats": null,
-          "lastSeatsOn": null
-        },
-        "CENT@HOME|Politecnico di Milano|MILANO|26/11/2026": {
-          "availability": "EXPIRED",
-          "seats": 0,
-          "lastSeats": null,
-          "lastSeatsOn": null
-        },
-        "CENT@HOME|Università degli studi di Padova|PADOVA|26/11/2026": {
-          "availability": "EXPIRED",
-          "seats": 0,
-          "lastSeats": null,
-          "lastSeatsOn": null
-        },
-        "CENT@HOME|Università degli studi di Teramo|TERAMO|26/11/2026": {
-          "availability": "EXPIRED",
-          "seats": 0,
-          "lastSeats": null,
-          "lastSeatsOn": null
-        },
-        "CENT@HOME|Università Ca' Foscari Venezia|VENEZIA|26/11/2026": {
-          "availability": "EXPIRED",
-          "seats": 0,
-          "lastSeats": null,
-          "lastSeatsOn": null
-        },
         "CENT@UNI|Sapienza Universita' di Roma - Facolta' di Ingegneria (I3S) - Dipartimento di Scienze statistiche|ROMA|17/12/2026": {
           "availability": "FULL",
           "seats": null,
@@ -56,9 +14,9 @@
         },
         "CENT@UNI|Universita' degli studi di Messina|MESSINA|17/12/2026": {
           "availability": "OPEN",
-          "seats": 14,
-          "lastSeats": 14,
-          "lastSeatsOn": "2026-11-26"
+          "seats": 13,
+          "lastSeats": 13,
+          "lastSeatsOn": "2026-11-27"
         },
         "CENT@HOME|Sapienza Università di Roma|ROMA|17/12/2026": {
           "availability": "FULL",
@@ -72,6 +30,12 @@
           "lastSeats": null,
           "lastSeatsOn": null
         },
+        "CENT@HOME|Sapienza Università di Roma|ROMA|12/01/2027": {
+          "availability": "FULL",
+          "seats": null,
+          "lastSeats": null,
+          "lastSeatsOn": null
+        },
         "CENT@UNI|Politecnico di Torino|TORINO|12/01/2027": {
           "availability": "FULL",
           "seats": null,
@@ -80,7 +44,6 @@
         }
       },
       "dates": [
-        "26/11/2026",
         "17/12/2026",
         "12/01/2027"
       ]
